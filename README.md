@@ -6,8 +6,8 @@ Developed for <i>CY8CKIT-050 PSoC5-LP</i> Kit with a CY8C5868AXI-LP035 device us
 <br>
 <br>
 - Folder with LCD Datasheets. <br>
-- Folder with files to store in the SDCard. <br>
-- Folder with PSoC Creator Project (Inside Folder with Drivers, uGUI and FatFs Library)
+- Folder with files to store in the SDCard (Needed for testing and image display) <br>
+- Folder with PSoC Creator Project (Inside Folder with Drivers, uGUI and FatFs Library) <br>
 <br></p>
 About uGUI:<br>
 https://github.com/achimdoebler/UGUI <br>
