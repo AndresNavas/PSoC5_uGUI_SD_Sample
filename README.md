@@ -20,6 +20,7 @@ http://www.hackingchips.com/2016/01/port-de-la-libreria-fatfs-para-micros.html
 https://github.com/hackingchips/PSoC_FatFs <br>
 <br></p>
 Tested with 4Gb SDHC - SDCard. <br>
+TFT setup with 16bits BUS - 16 bits Color RGB565. <br>
 <br></p>
 Where to find the LCD Panel:<br>
 https://www.aliexpress.com/item/Consumer-Electronics-Shop-Free-shipping-5-TFT-LCD-SS63-Module-Display-Touch-Panel-Screen-PCB-Adapter/32603464488.html?spm=a2g0s.9042311.0.0.27424c4dwb4qzi <br>
